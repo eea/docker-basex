@@ -35,4 +35,4 @@ STOPPORT = 8985
 AUTHMETHOD = Basic
 
 # Local Options
-QUERYPATH = /srv/BaseXModule
+QUERYPATH = /opt/xmlconv/queries
